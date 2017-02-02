@@ -1,4 +1,6 @@
 # _guides-hello-world
 https://guides.github.com/activities/hello-world/
 
-Making this change for the section on branching.
+Here I go again on my own.
+Going down the only branch I've ever known.
+Like a coder, I was born to code alone.
